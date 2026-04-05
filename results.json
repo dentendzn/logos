@@ -1,15 +1,15 @@
 {
   "swiss_results": [
     {"team1": "FaZe", "team2": "EYEBALLERS", "winner": "EYEBALLERS"},
-    {"team1": "FUT", "team2": "Inner Circle", "winner": "FUT"}
+    {"team1": "FUT", "team2": "Inner Circle", "winner": "FUT"},
     {"team1": "3DMAX", "team2": "FOKUS", "winner": "FOKUS"},
-    {"team1": "NRG", "team2": "Voca", "winner": "NRG"}
+    {"team1": "NRG", "team2": "Voca", "winner": "NRG"},
     {"team1": "B8", "team2": "Wildcard", "winner": "B8"},
-    {"team1": "The MongolZ", "team2": "BC.Game", "winner": "The MongolZ"}
+    {"team1": "The MongolZ", "team2": "BC.Game", "winner": "The MongolZ"},
     {"team1": "Astralis", "team2": "MIBR", "winner": "Astralis"},
-    {"team1": "PARIVISION", "team2": "Legacy", "winner": "PARIVISION"}
+    {"team1": "PARIVISION", "team2": "Legacy", "winner": "PARIVISION"},
     {"team1": "FaZe", "team2": "Wildcard", "winner": "Wildcard"},
-    {"team1": "FUT", "team2": "NRG", "winner": "FUT"}
+    {"team1": "FUT", "team2": "NRG", "winner": "FUT"},
     {"team1": "3DMAX", "team2": "Voca", "winner": "3DMAX"},
     {"team1": "Astralis", "team2": "B8", "winner": "Astralis"}
   ]
